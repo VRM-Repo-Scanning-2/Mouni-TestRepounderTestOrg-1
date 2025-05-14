@@ -1,6 +1,5 @@
-# Vulnado - Intentionally Vulnerable Java Application (test7 36)
+# Vulnado - Intentionally Vulnerable Java Application (test7 36) test
 
-This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them..test test1 test2 test3 test2 3 test4 test5 test6 test7 test8 9
 
 ## Up and running
 
@@ -9,7 +8,7 @@ This application and exercises will take you through some of the OWASP top 10 Vu
 3. `cd vulnado`
 4. `docker-compose up`
 5. Open a browser and navigate to the client to make sure it's working: [http://localhost:1337](http://localhost:1337)
-6. Then back in your terminal verify you have connection to your API server: `nc -vz localhost 8080`
+6. Then back in your terminal verify you have connection to your API server: `nc -vz localhost 8080` test test test
 
 ## Architecture
 
