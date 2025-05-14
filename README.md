@@ -8,7 +8,7 @@
 3. `cd vulnado`
 4. `docker-compose up`
 5. Open a browser and navigate to the client to make sure it's working: [http://localhost:1337](http://localhost:1337)
-6. Then back in your terminal verify you have connection to your API server: `nc -vz localhost 8080`
+6. Then back in your terminal verify you have connection to your API server: `nc -vz localhost 8080` test
 
 ## Architecture
 
