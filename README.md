@@ -1,5 +1,3 @@
-f# Vulnado - Intentionally Vulnerable Java Application (test7 36)ftt
-fd
 
 ## Up and running
 
